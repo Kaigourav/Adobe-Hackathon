@@ -1,0 +1,790 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Default Persona",
+    "job_to_be_done": "Default Job",
+    "processing_timestamp": "2025-07-28T16:47:04.054947Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 12,
+      "section_title": "Santiago de Compostela.",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 5,
+      "section_title": "development as a luxurious destination.",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 7,
+      "section_title": "\u2022 Op\u00e9ra Grand Avignon: Attend a performance at the Op\u00e9ra Grand Avignon for a",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 10,
+      "section_title": "imposing facade and twin towers. It is the seat of the Archdiocese of Montpellier.",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 7,
+      "section_title": "opera house.",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 5,
+      "section_title": "unique architectural gem in Nice.",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 8,
+      "section_title": "des Peintres and the Bib\u00e9mus Quarry.",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 13,
+      "section_title": "Medieval Life",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 14,
+      "section_title": "Conclusion",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 10,
+      "section_title": "Montpellier: A University City with Medieval Charm",
+      "importance_rank": 10
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 8,
+      "section_title": "food lover. From fresh seafood and Proven\u00e7al dishes to iconic restaurants and unique culinary",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "(Vermentino) and Clairette for whites.",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 5,
+      "section_title": "include Nielluccio (Sangiovese), Sciacarello, and Vermentino.",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 1,
+      "section_title": "adventure.",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 2,
+      "section_title": "that the seafood is always fresh and flavorful.",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "\u2022 Chez Pipo (Nice): A local favorite for Socca, this casual eatery is perfect for a quick and",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 8,
+      "section_title": "Conclusion",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 7,
+      "section_title": "is no exception. Join a pastry workshop to learn how to make classic French pastries",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 6,
+      "section_title": "Culinary Experiences",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 4,
+      "section_title": "Must-Visit Restaurants",
+      "importance_rank": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 8,
+      "section_title": "Santiago de Compostela.",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 3,
+      "section_title": "reflects the influence of Russian aristocrats who vacationed in Nice.",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 11,
+      "section_title": "Perpignan, attracts photographers and journalists from around the world.",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "imposing facade and twin towers. It is the seat of the Archdiocese of Montpellier.",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 4,
+      "section_title": "opera house.",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 12,
+      "section_title": "Conclusion",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "Montpellier: A University City with Medieval Charm",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 10,
+      "section_title": "architecture.",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 9,
+      "section_title": "known for its beautiful cloister and triptych by Nicolas Froment.",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 2,
+      "section_title": "became famous as a prison and was immortalized in Alexandre Dumas' novel \"The",
+      "importance_rank": 10
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "casual meal.",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 2,
+      "section_title": "casual meal.",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "glamorous setting and high-end services make it a favorite among celebrities.",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "glamorous setting and high-end services make it a favorite among celebrities.",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "glamorous setting and high-end services make it a favorite among celebrities.",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "glamorous setting and high-end services make it a favorite among celebrities.",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "The glamorous setting and high-end services make it a favorite among celebrities.",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "The glamorous setting and high-end services make it a favorite among celebrities.",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "\u2022 H\u00f4tel Le Negresco (Nice): A luxurious hotel located on the Boulevard de la Croisette,",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "\u2022 H\u00f4tel Le Negresco (Nice): A luxurious family-friendly hotel offering spacious rooms,",
+      "importance_rank": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 9,
+      "section_title": "character.",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "atmosphere and celebrity clientele.",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "Boutique Shopping",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 4,
+      "section_title": "adventures:",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "ambiance.",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "\u2022 Saint-Tropez: Explore the chic boutiques and designer stores in this glamorous town.",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 7,
+      "section_title": "\u2022 Cannes: Indulge in a pampering session at one of the many high-end spas.",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 8,
+      "section_title": "\u2022 Montpellier: Discover the boutiques in the historic \u00c9cusson district, offering fashion,",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 13,
+      "section_title": "Conclusion",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 11,
+      "section_title": "de Paris.",
+      "importance_rank": 10
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 6,
+      "section_title": "\u2022 Basic Toiletries: Toothbrush, toothpaste, shampoo, body wash, and personal hygiene",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 4,
+      "section_title": "\u2022 Basic Toiletries: Toothbrush, toothpaste, shampoo, conditioner, body wash,",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 4,
+      "section_title": "pants and a blouse/shirt.",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 1,
+      "section_title": "to travel tips, catering to all seasons and various activities. Whether you're traveling solo, with",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 6,
+      "section_title": "\u2022 Comfortable Wear: T-shirts, shorts, pants, dresses, pajamas, and underwear.",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 4,
+      "section_title": "\u2022 Casual Wear: Comfortable clothes for sightseeing and casual dining, like jeans, t-",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 2,
+      "section_title": "or consulate information.",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 4,
+      "section_title": "shirts, and casual dresses.",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 9,
+      "section_title": "Conclusion",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 4,
+      "section_title": "\u2022 Swimwear: Don't forget your swimsuit for beach or pool visits.",
+      "importance_rank": 10
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "of these charming figures.",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 3,
+      "section_title": "P\u00e9tanque",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "heritage also includes famous authors like Marcel Pagnol, whose novels and plays vividly",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "Conclusion",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "twelve apostles. Another tradition is the \"santon\" figurines, which are handcrafted clay figures",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Pottery and Ceramics",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 2,
+      "section_title": "Transhumance, the seasonal migration of livestock to higher pastures, is a tradition that dates",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 5,
+      "section_title": "and culture of the South of France provide a deep and enriching experience. Use this guide to",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 4,
+      "section_title": "Saint Sara.",
+      "importance_rank": 10
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Santiago de Compostela.",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "development as a luxurious destination.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "\u2022 Op\u00e9ra Grand Avignon: Attend a performance at the Op\u00e9ra Grand Avignon for a",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "imposing facade and twin towers. It is the seat of the Archdiocese of Montpellier.",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "opera house.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "unique architectural gem in Nice.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "des Peintres and the Bib\u00e9mus Quarry.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Medieval Life",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Conclusion",
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Montpellier: A University City with Medieval Charm",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "food lover. From fresh seafood and Proven\u00e7al dishes to iconic restaurants and unique culinary",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "(Vermentino) and Clairette for whites.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "include Nielluccio (Sangiovese), Sciacarello, and Vermentino.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "adventure.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "that the seafood is always fresh and flavorful.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "\u2022 Chez Pipo (Nice): A local favorite for Socca, this casual eatery is perfect for a quick and",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Conclusion",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "is no exception. Join a pastry workshop to learn how to make classic French pastries",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Culinary Experiences",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Must-Visit Restaurants",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Santiago de Compostela.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "reflects the influence of Russian aristocrats who vacationed in Nice.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Perpignan, attracts photographers and journalists from around the world.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "imposing facade and twin towers. It is the seat of the Archdiocese of Montpellier.",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "opera house.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Conclusion",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Montpellier: A University City with Medieval Charm",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "architecture.",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "known for its beautiful cloister and triptych by Nicolas Froment.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "became famous as a prison and was immortalized in Alexandre Dumas' novel \"The",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "casual meal.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "casual meal.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "glamorous setting and high-end services make it a favorite among celebrities.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "glamorous setting and high-end services make it a favorite among celebrities.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "glamorous setting and high-end services make it a favorite among celebrities.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "glamorous setting and high-end services make it a favorite among celebrities.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "The glamorous setting and high-end services make it a favorite among celebrities.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "The glamorous setting and high-end services make it a favorite among celebrities.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "\u2022 H\u00f4tel Le Negresco (Nice): A luxurious hotel located on the Boulevard de la Croisette,",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "\u2022 H\u00f4tel Le Negresco (Nice): A luxurious family-friendly hotel offering spacious rooms,",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "character.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "atmosphere and celebrity clientele.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Boutique Shopping",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "adventures:",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "ambiance.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "\u2022 Saint-Tropez: Explore the chic boutiques and designer stores in this glamorous town.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "\u2022 Cannes: Indulge in a pampering session at one of the many high-end spas.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "\u2022 Montpellier: Discover the boutiques in the historic \u00c9cusson district, offering fashion,",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Conclusion",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "de Paris.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "\u2022 Basic Toiletries: Toothbrush, toothpaste, shampoo, body wash, and personal hygiene",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "\u2022 Basic Toiletries: Toothbrush, toothpaste, shampoo, conditioner, body wash,",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "pants and a blouse/shirt.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "to travel tips, catering to all seasons and various activities. Whether you're traveling solo, with",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "\u2022 Comfortable Wear: T-shirts, shorts, pants, dresses, pajamas, and underwear.",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "\u2022 Casual Wear: Comfortable clothes for sightseeing and casual dining, like jeans, t-",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "or consulate information.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "shirts, and casual dresses.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Conclusion",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "\u2022 Swimwear: Don't forget your swimsuit for beach or pool visits.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "of these charming figures.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "P\u00e9tanque",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "heritage also includes famous authors like Marcel Pagnol, whose novels and plays vividly",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "Conclusion",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "twelve apostles. Another tradition is the \"santon\" figurines, which are handcrafted clay figures",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "Pottery and Ceramics",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "Introduction",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "Transhumance, the seasonal migration of livestock to higher pastures, is a tradition that dates",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "and culture of the South of France provide a deep and enriching experience. Use this guide to",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "Saint Sara.",
+      "page_number": 4
+    }
+  ]
+}
